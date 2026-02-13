@@ -1,7 +1,7 @@
-# Alumno: [Kevin Ortega Chávez]
+# Alumno: Kevin Ortega Chávez
 
 **Número de Control:** 23490375
-
+**Repositorio del ejercicio:** https://github.com/a23490375OCK/Mi-Proyecto-Practica
 ## ¿Qué es Git?
 
 Git es un sistema de control de versiones que permite a los programadores...
